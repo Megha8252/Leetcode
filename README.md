@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Megha8252/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Megha8252/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Megha8252/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Megha8252/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Megha8252/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Megha8252/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -37,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Megha8252/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Megha8252/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Megha8252/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Megha8252/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Megha8252/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Megha8252/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Megha8252/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -57,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Megha8252/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Megha8252/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
