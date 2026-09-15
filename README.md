@@ -398,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Megha8252/Leetcode/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/Megha8252/Leetcode/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
