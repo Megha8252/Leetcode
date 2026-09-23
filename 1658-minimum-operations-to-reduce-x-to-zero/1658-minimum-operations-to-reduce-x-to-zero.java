@@ -1,25 +1,20 @@
 class Solution {
-    public int minOperations(int[] nums, int x) {
-        int total = 0;
-        for (int num : nums) total += num;
+    public int minOperations(int[] A, int x) {
+        int k = -x, n = A.length;
+        for (int a : A) k += a;
+        if (k < 0) return -1;
+        if (k == 0) return n;
 
-        int target = total - x;
-        if (target < 0) return -1;
+        int best = -1, i = 0, s = 0;
+        for (int j = 0; j < n; j++) {
+            s += A[j];
+            while (s > k)
+                s -= A[i++];
 
-        int maxLen = -1, sum = 0, left = 0;
-
-        for (int right = 0; right < nums.length; right++) {
-            sum += nums[right];
-
-            while (sum > target && left <= right) {
-                sum -= nums[left++];
-            }
-
-            if (sum == target) {
-                maxLen = Math.max(maxLen, right - left + 1);
-            }
+            if (s == k)
+                best = Math.max(best, j - i + 1);
         }
 
-        return maxLen == -1 ? -1 : nums.length - maxLen;
+        return best < 0 ? -1 : n - best;
     }
 }
