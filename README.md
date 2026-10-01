@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Megha8252/Leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Megha8252/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0224-basic-calculator](https://github.com/Megha8252/Leetcode/tree/master/0224-basic-calculator) |
 | [0940-distinct-subsequences-ii](https://github.com/Megha8252/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Megha8252/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Megha8252/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Megha8252/Leetcode/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Megha8252/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Megha8252/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Megha8252/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Megha8252/Leetcode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Megha8252/Leetcode/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Megha8252/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Megha8252/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Megha8252/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Megha8252/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Megha8252/Leetcode/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Megha8252/Leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Megha8252/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
