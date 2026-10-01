@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Megha8252/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Megha8252/Leetcode/tree/master/0016-3sum-closest) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Megha8252/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Megha8252/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Megha8252/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Megha8252/Leetcode/tree/master/0835-image-overlap) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Megha8252/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Megha8252/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Megha8252/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Megha8252/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Megha8252/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Megha8252/Leetcode/tree/master/0016-3sum-closest) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Megha8252/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Megha8252/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/Megha8252/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Megha8252/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -462,4 +465,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Megha8252/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Megha8252/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Megha8252/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Megha8252/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Megha8252/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
