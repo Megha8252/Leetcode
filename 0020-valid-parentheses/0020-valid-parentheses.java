@@ -1,26 +1,17 @@
 class Solution {
-    public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
+    public boolean isValid(String str) {
+        if (str.length() % 2 == 1)
+            return false;
 
-        for (char c : s.toCharArray()) {
-            // Push opening brackets into stack
-            if (c == '(' || c == '{' || c == '[') {
-                stack.push(c);
-            } else {
-                // If stack empty or mismatch -> invalid
-                if (stack.isEmpty()) return false;
+        char[] S = str.toCharArray();
+        int j = 0;
 
-                char top = stack.pop();
+        for (char c : S)
+            if ((c & 3) != 1)
+                S[j++] = c;
+            else if (j == 0 || ((c - S[--j] + 1) >> 1) != 1)
+                return false;        
 
-                if ((c == ')' && top != '(') ||
-                    (c == '}' && top != '{') ||
-                    (c == ']' && top != '[')) {
-                    return false;
-                }
-            }
-        }
-
-        // If stack empty, valid; else invalid
-        return stack.isEmpty();
+        return j == 0;
     }
 }
