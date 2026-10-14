@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Megha8252/Leetcode/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Megha8252/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Megha8252/Leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Megha8252/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Megha8252/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Megha8252/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Megha8252/Leetcode/tree/master/0877-stone-game) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Megha8252/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/Megha8252/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Megha8252/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Megha8252/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Megha8252/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Megha8252/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Megha8252/Leetcode/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/Megha8252/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Megha8252/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Megha8252/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Megha8252/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Megha8252/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Megha8252/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
