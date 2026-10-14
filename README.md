@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Megha8252/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/Megha8252/Leetcode/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/Megha8252/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Megha8252/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Megha8252/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Megha8252/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Megha8252/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Megha8252/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Megha8252/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Megha8252/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Megha8252/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Megha8252/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Megha8252/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Megha8252/Leetcode/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/Megha8252/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Megha8252/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Megha8252/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Megha8252/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Megha8252/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Megha8252/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Megha8252/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
